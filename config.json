@@ -92,7 +92,7 @@
         "cn/0": false
     },
     "cuda": {
-        "enabled": true,
+        "enabled": false,
         "loader": null,
         "nvml": true,
         "astrobwt": [
