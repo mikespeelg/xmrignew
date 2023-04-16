@@ -1,5 +1,4 @@
 apt update -y
-apt upgrade -y
 apt install neofetch -y
 neofetch
 
