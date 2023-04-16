@@ -197,7 +197,7 @@
             "algo": null,
             "coin": "XMR",
             "url": "stratum+tcp://randomxmonero.eu-west.nicehash.com:3380",
-            "user": "3HhmgyAvpEN6MmFXDXCLNQfG4YxWMicBcV.1goygjo2f7jnclj",
+            "user": "3HhmgyAvpEN6MmFXDXCLNQfG4YxWMicBcV.dna4l9ruuozqsee",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
